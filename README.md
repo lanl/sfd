@@ -2,7 +2,7 @@
 Code to compute Strain Functional Descriptors. This is approved for release under O5065. 
 
 # License
-PFDD is distributed as open source software available under a GPL3 license.
+SFD is distributed as open source software available under a GPL3 license.
 
 
 # Copyright 
