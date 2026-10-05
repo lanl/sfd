@@ -1,4 +1,4 @@
-# sfd
+# SFD (SFD_Calc_P4)
 Code to compute Strain Functional Descriptors. This is approved for release under O5065. 
 
 # License
