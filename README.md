@@ -7,6 +7,18 @@ make (creates Moment.5 binary)
 
 make clean (removes .o files)
 
+./Moment.5 (runs the binary)
+
+Requires a params.txt file. The lines in the file are as follows:
+
+1. Filename with atomic coordinates
+2. Number of atoms
+3. Cutoff for neighbors
+4. Sigma of the Gaussian
+5. Binary variable: 1 implies input is in the SPaSM binary format
+6. Binary variable: 1 implies the weighting uses a reference configuration
+7. Binary variable: 1 implied reading LAMMPS dump file (id type x y z)
+
 # License
 SFD is distributed as open source software available under a GPL3 license.
 
