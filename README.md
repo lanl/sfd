@@ -1,5 +1,10 @@
 # SFD (SFD_Calc_P4)
 Code to compute Strain Functional Descriptors. This is approved for release under O5065. 
+# Compilation and running
+g++ compiler
+
+make (creates Moment.5 binary)
+make clean (removes .o files)
 
 # License
 SFD is distributed as open source software available under a GPL3 license.
