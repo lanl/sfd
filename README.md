@@ -4,6 +4,7 @@ Code to compute Strain Functional Descriptors. This is approved for release unde
 g++ compiler
 
 make (creates Moment.5 binary)
+
 make clean (removes .o files)
 
 # License
