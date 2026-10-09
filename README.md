@@ -1,5 +1,5 @@
 # SFD (SFD_Calc_P4)
-Code to compute Strain Functional Descriptors. This is approved for release under O5065. 
+Code to compute Strain Functional Descriptors. This is approved for release under O5065. Basic steps to build and run the code is below. 
 # Compilation and running
 g++ compiler
 
